@@ -1,7 +1,7 @@
 ---
 title: "Embracing Complexity"
 subtitle: "Mapping and modernizing USDA NASS's survey operations"
-hasImages: false
+hasImages: true
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Automotive HMI Prototyping"
 subtitle: "A physical testbed for automotive HMI design"
-hasImages: false
+hasImages: true
 ---
 
 

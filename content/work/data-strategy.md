@@ -1,7 +1,7 @@
 ---
 title: "Customer Data Strategy"
 subtitle: "Designing a data strategy for a Fortune 500 organization"
-hasImages: false
+hasImages: true
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Research Memo"
 subtitle: "European cab-over acceptance in the US market — Nikola Motors"
-hasImages: false
+hasImages: true
 ---
 
 

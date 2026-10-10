@@ -1,7 +1,7 @@
 ---
 title: "CALI"
 subtitle: "Competitive Agent Longitudinal Intelligence"
-hasImages: false
+hasImages: true
 ---
 
 

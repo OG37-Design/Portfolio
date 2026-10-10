@@ -1,7 +1,7 @@
 ---
 title: "Total Consent Design"
 subtitle: "A unified, trustworthy consent experience across products"
-hasImages: false
+hasImages: true
 ---
 
 

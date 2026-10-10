@@ -1,7 +1,7 @@
 ---
 title: "Meal Assistant"
 subtitle: "Two studies, one adoption story — Kroger / Cooklist"
-hasImages: false
+hasImages: true
 ---
 
 

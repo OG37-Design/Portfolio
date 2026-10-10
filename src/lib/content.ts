@@ -16,7 +16,7 @@ export interface CaseStudy {
 export function getAllCaseStudySlugs(): string[] {
   return fs
     .readdirSync(WORK_DIR)
-    .filter((file) => file.endsWith(".md"))
+    .filter((file) => file.endsWith(".md") && !file.startsWith("."))
     .map((file) => file.replace(/\.md$/, ""));
 }
 
@@ -44,7 +44,7 @@ export function getCaseStudyImages(slug: string): string[] {
   if (!fs.existsSync(dir)) return [];
   return fs
     .readdirSync(dir)
-    .filter((file) => /\.(jpe?g|png)$/i.test(file))
+    .filter((file) => /\.(jpe?g|png|gif|webp)$/i.test(file))
     .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
     .map((file) => `/work/${slug}/${file}`);
 }
