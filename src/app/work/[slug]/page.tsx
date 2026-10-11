@@ -1,12 +1,7 @@
 import { notFound } from "next/navigation";
-import Image from "next/image";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import {
-  getAllCaseStudySlugs,
-  getCaseStudy,
-  getCaseStudyImages,
-} from "@/lib/content";
+import { getAllCaseStudySlugs, getCaseStudy } from "@/lib/content";
 
 export function generateStaticParams() {
   return getAllCaseStudySlugs().map((slug) => ({ slug }));
@@ -22,7 +17,6 @@ export default async function CaseStudyPage({
   if (!slugs.includes(slug)) notFound();
 
   const study = getCaseStudy(slug);
-  const images = study.hasImages ? getCaseStudyImages(slug) : [];
 
   return (
     <article className="mx-auto max-w-3xl px-6 py-16">
@@ -35,27 +29,22 @@ export default async function CaseStudyPage({
         </p>
       </header>
 
-      {images.length > 0 && (
-        <div className="mb-12 grid grid-cols-1 gap-3 sm:grid-cols-2">
-          {images.map((src) => (
-            <div
-              key={src}
-              className="relative aspect-[4/3] overflow-hidden rounded-md border border-border bg-black/5"
-            >
-              <Image
-                src={src}
-                alt=""
-                fill
-                sizes="(min-width: 640px) 50vw, 100vw"
-                className="object-cover"
-              />
-            </div>
-          ))}
-        </div>
-      )}
-
       <div className="prose-content">
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>
+        <ReactMarkdown
+          remarkPlugins={[remarkGfm]}
+          components={{
+            // eslint-disable-next-line @next/next/no-img-element
+            img: ({ alt, src }) => (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img
+                src={typeof src === "string" ? src : undefined}
+                alt={alt ?? ""}
+                loading="lazy"
+                className="w-full rounded-md border border-border"
+              />
+            ),
+          }}
+        >
           {study.content}
         </ReactMarkdown>
       </div>

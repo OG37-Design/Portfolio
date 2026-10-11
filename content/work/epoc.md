@@ -24,11 +24,13 @@ Four-slide front-loaded summary (concept → problem → approach → outcome), 
 > Even with this concentrated attention we are still unaware of much of the information available.
 
 Visual (001): Grayscale illustration of a person's head "opened" like a lid, spheres/bubbles rising out — external AI awareness extending consciousness.
+![Slide 1](/work/epoc/001.JPG)
 
 ### UX Problems (to be solved)
 > Lack of accurate and clear Information/Data provided to the user in real time by prioritizing on Trust and Privacy factors.
 
 Visual (002): Horizontal priority ranking: Trust, Information Fatigue, Privacy, Syntax, Health.
+![Slide 2](/work/epoc/002.JPG)
 
 ### Approach — Information Environment
 > **Context** Providing more opportunities and Information for an user to act on the Every day life around them.
@@ -38,11 +40,14 @@ Visual (002): Horizontal priority ranking: Trust, Information Fatigue, Privacy, 
 > **User** Multitasking and always looking for more and accurate Information.
 
 Visual (003): Three-circle Venn diagram — Context / Content / User.
+![Slide 3](/work/epoc/003.JPG)
 
 ### Proposed Product and Visual/Interface Design (Expected Outcome)
 No body paragraph. Visual (004): Early concept art — round gray "Ear Wearable" device with blue accent band (standalone + fitted on an illustrated ear), plus a "Mobile App" phone mockup (pulsing-icon home screen: settings gear, help "?", center play button, device icon, power icon). Labeled "*Customized Interface."
+![Slide 4](/work/epoc/004.JPG)
 
 ## Section 1 — Research (slides 005–008)
+![Slide 5](/work/epoc/005.JPG)
 
 ### Secondary Research — History Timeline
 No paragraph copy — pure timeline (005), voice-assistant/speech-recognition history 1961–2017:
@@ -64,8 +69,10 @@ No paragraph copy — pure timeline (005), voice-assistant/speech-recognition hi
 Focal survey question: *"What are you thinking about during the drive from work back to your home?"* Other questions: What do you like to do on your drive home from work? / What stops do you make between work and the drive back home? / What do you usually plan to do before getting home? / What information do you wish to have before getting home? / When do you decide what to do after leaving work? / How often do you make spontaneous decisions after leaving work? / When do you find yourself being most productive at work?
 
 Visual (006): raw verbatim survey responses table — "What I'm going to do when I get home" / "Food mostly" / "Random.stuff. things to do" / "What to cook or eat" / "Life" / "Work, food, Netflix" / "What I have to do when I get home." / "What was left over from work or personal stuff waiting at home" / "Getting rest" / "What I'm going to eat when I get home" / "Rest" / "tasks I need to get done before going to bed" / "what a wastw of life and efforts. i should do something of myself." / "What's for dinner.." / "Probably about how my day was" / "Anything that's important" / "How the day was." / "Random thoughts" / "Pick up kids and think about days work" / "What to eat for dinner" / "Usually listening to music or talking and relaxing my mind." / "What to do at home"
+![Slide 6](/work/epoc/006.JPG)
 
 ### Primary Research — Personas (slide 007)
+![Slide 7](/work/epoc/007.JPG)
 
 **Linda Johnson** — Hard working, Organized, Engineer. "The art of having a blank mind." Age 31, Software Developer, Married, Bay Area, Introvert.
 Goals: Get back home and enjoy some leisure time; Watch series/shows on Netflix; Forget about work issues.
@@ -85,6 +92,7 @@ Bio: "Tony Bambino is a family oriented person, working as a Manager at Multi Na
 (Note: "Bambino" is reused as the protagonist's name in the later storyboards.)
 
 ### User Journey Map (slide 008)
+![Slide 8](/work/epoc/008.JPG)
 > From the survey results we sought to map a users journey. The journey begins 60 minutes prior to the end of the workday and ends in bed time. Through this exercise the team found several areas of opportunity/pain points, these are marked in red.
 
 Timeline: red dashed = "Current Journey," red boxes = pain points. Stage 1 (60/50/30/15 min till work ends) → Stage 2 (work ends → first stop, +20 min) → Stage 3 (home +45 min → bed time). Pain points:
@@ -99,11 +107,22 @@ Timeline: red dashed = "Current Journey," red boxes = pain points. Stage 1 (60/5
 - "User enjoys the meal and washes [watches] a TV show"
 
 ## Section 2 — Concept Positioning (slides 009–010)
+![Slide 9](/work/epoc/009.JPG)
+![Slide 10](/work/epoc/010.JPG)
 "Further analysis shows three opportunity areas, in the current market offering." / "Team engaged in the plotting of the current market offerings in a Phyco-Aesthetic [Psycho-Aesthetic] Map. The two Map were analyzed and the offerings were plotted in a third Map by the average placement between the two. This is the result of the exercise."
 
 Visual: 2x2 quadrant map, axes "Self Actualizing" (Dynamic Empowerment ↔ Basic Functionality) and "Interactivity" (Passive ↔ Immersive). Zones: Artistic, Enriched, Versatile, Basic. Competitors plotted: Siri, Google Assistant, Alexa — clustering in Enriched/Versatile overlap, the identified opportunity zone.
 
 ## Section 3 — Naming: "Huic" → "Epoc" (slides 011–019)
+![Slide 11](/work/epoc/011.JPG)
+![Slide 12](/work/epoc/012.JPG)
+![Slide 13](/work/epoc/013.JPG)
+![Slide 14](/work/epoc/014.JPG)
+![Slide 15](/work/epoc/015.JPG)
+![Slide 16](/work/epoc/016.JPG)
+![Slide 17](/work/epoc/017.JPG)
+![Slide 18](/work/epoc/018.JPG)
+![Slide 19](/work/epoc/019.JPG)
 Same concept developed/tested under working name **Huic** before renaming to **Epoc**. Research questions, market map, and journey map reused nearly identically under both names.
 
 **HUIC** (hu:'i:k) — "an encouraging call given by a huntsman during a hunt to cheer on hounds."
@@ -123,6 +142,9 @@ Storyboard (018, drive home): device gives breakdown (Time left at work, Drive t
 Comparative journey chart (019): red dashed "user guide" (unassisted) dips at pain points vs. green "Huic" and blue "epoc" lines staying smoother/elevated.
 
 ## Section 4 — Wireframes & Usability Testing, Lo-Fi (slides 020–022)
+![Slide 20](/work/epoc/020.JPG)
+![Slide 21](/work/epoc/021.JPG)
+![Slide 22](/work/epoc/022.JPG)
 Login/Sign Up → Home (pulsing "epoc" icon) → Profile ("Linda Johnson," Off Grid toggle) → Devices compact (Savannah's Room Speaker / Google Home Mini) → Devices full (Add New Device, Car Speaker, Ear Pods) → Mental Trends list (Family, Professional, Leisure, Food, Music, Academic) → Music toggle chips (Justin Bieber, Beyonce, Adele, Hip Hop, AC/DC, Eminem) → Food toggle chips (Chinese, Italian, American, Indian, Mediterranean, Asian).
 
 User testing photos (021): participants with paper/card wireframe prototypes, library setting.
@@ -130,6 +152,12 @@ User testing photos (021): participants with paper/card wireframe prototypes, li
 Heuristic analysis callouts (022): Hierarchy, Drop Down list, Interaction with Buttons (Slide, Delete), Search, Linking with other Apps (Spotify, Pandora, Uber Eats), Repetition of IA, Add Button.
 
 ## Section 5 — Final System: Device Network & Physical Prototype (slides 023–028)
+![Slide 23](/work/epoc/023.JPG)
+![Slide 24](/work/epoc/024.JPG)
+![Slide 25](/work/epoc/025.JPG)
+![Slide 26](/work/epoc/026.JPG)
+![Slide 27](/work/epoc/027.JPG)
+![Slide 28](/work/epoc/028.JPG)
 
 > In a world where information doubles every year, one does not have the ability to take full advantage of the resources available. E-consciousness helps the user filter out irrelevant data to bring precise useful information.
 
@@ -142,11 +170,14 @@ Physical prototype photography (025–026): 3D-printed pleated/ribbed white devi
 Floor-plan visualizations (027–028): top-down house plan with sensor/camera/speaker icons at doors, deck, garage, living spaces; 028 adds an orange radial heat-map overlay from the living room showing signal/presence coverage.
 
 ## Section 6 — Hi-Fi UI & Final Presentation (slides 029–030)
+![Slide 29](/work/epoc/029.JPG)
+![Slide 30](/work/epoc/030.JPG)
 Dark charcoal/orange hi-fi screens: Splash (pulsing logo) → Device (Linda's Home Pod, Add New Device) → Home feed (notification banner "Bill Burr at Lucas Theatre from 9th April, tickets on sale," content cards) → Interest Feed (The Atlantic piece, grocery/sports/travel cards) → Mental Trends (Family, Professional, Leisure, Food, Music [selected], Academic, DIY, Financial, Entertainment, Commute) → Music (long chip list: Red Hot Chili Peppers, Eminem, Post Malone, Country, Folk and Acoustic, Drake, International, Bollywood, Unplugged, Beyonce, Adele, Ariana Grande, Nucleya) → Schedule (August calendar, day-agenda list).
 
 **Hero tagline (030):** "Epoc AI manages all data inputs so the user won't have to; giving the user close to real time actionable knowledge." — strongest candidate for site hero copy.
 
 ## Section 7 — Validation: In-Drive User Testing (slide 031)
+![Slide 31](/work/epoc/031.JPG)
 > Epoc provides real-time information regarding the topic at hand. Helping the user plan and execute his gathering.
 
 User quotes: "Faster felt real" / "More spontaneous feedback" / "Sometime you really need advice" / "Not invasive" / "Epoc should ask for forgiveness rather than permission" / "It kind of feels like a third wheel" / "Match user interest"
@@ -154,9 +185,11 @@ User quotes: "Faster felt real" / "More spontaneous feedback" / "Sometime you re
 Visual: in-vehicle HUD concept ("Clean Shopping List — Public Kroger" notification), documentary photo of user-test session.
 
 ## Section 8 — Credits (slide 032)
+![Slide 32](/work/epoc/032.JPG)
 epoc logo (orange gradient dot + gray wordmark), caption "Noel Gonzalez | Rithesh Rama." Likely works better as a footer/attribution line than literal sequence position.
 
 ## Section 9 — Final Industrial Design Render (slide 034, "box layout")
+![Slide 34](/work/epoc/034.png)
 3D render: kraft shipping box with orange strap; fully-assembled device (closed shell + exploded/open view with orange gasket seam); smaller charging-accessory box; blank iPhone for scale; round charging puck/cap; two earbud-like components with two-pronged charging cradle. Strong closing visual.
 
 ## Flags for the rebuild
@@ -168,3 +201,8 @@ epoc logo (orange gradient dot + gray wordmark), caption "Noel Gonzalez | Rithes
 - Unlabeled woman's photo on slide 024's network diagram — identity/purpose unclear, confirm before reusing.
 - Red circle on "2001" in the history timeline (005) has no caption — purpose unclear.
 - Stats ("54%," "90%" etc. in the journey map) have no cited source in the deck.
+
+
+## Additional process photos
+
+![Slide 33](/work/epoc/033.jpeg)

@@ -29,6 +29,12 @@ Mixed-methods usability test with 102 participants using a think-aloud protocol.
 
 [Images 1–5: screenshots of the three consent design prototypes tested — different layout approaches, toggle mechanisms, information hierarchies]
 
+![](/work/total-consent-design/001.png)
+![](/work/total-consent-design/002.png)
+![](/work/total-consent-design/003.png)
+![](/work/total-consent-design/004.png)
+![](/work/total-consent-design/005.png)
+
 ## Key Themes
 1. **Agreement Engagement:** Users accept lengthy agreements without reading, describing them as "blanket" or "rubber-stamp" approvals.
 2. **Control & Self-Service:** Strong demand for granular toggles (communication, data-sharing settings) and easily adjustable preferences.
@@ -46,5 +52,17 @@ Mixed-methods usability test with 102 participants using a think-aloud protocol.
 ## Future Consent Model
 [Images 6–11: six wireframes/mockups depicting the proposed consent framework — a phased model progressing from initial consent flows through management dashboards, granular preference controls, and revocation interfaces; clean information architecture, toggle-based selections, clarity-focused microcopy]
 
+![](/work/total-consent-design/006.png)
+![](/work/total-consent-design/007.png)
+![](/work/total-consent-design/008.png)
+![](/work/total-consent-design/009.png)
+![](/work/total-consent-design/010.png)
+![](/work/total-consent-design/011.png)
+
 ## Summary
 Consent design framed as a business and UX imperative, grounded in empirical research showing demand for transparency, control, and simplicity in how personal data is governed.
+
+
+## Additional photos
+
+![](/work/total-consent-design/012.png)

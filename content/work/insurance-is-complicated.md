@@ -15,6 +15,7 @@ Work done at Candor USA.
 **Important note:** this case study is almost entirely diagram-driven (flowcharts, Sankey diagrams, service blueprints, C4 architecture diagrams) — there's very little free paragraph prose to lift directly. Recommend the rebuilt page leans on recreated diagrams, using the verbatim survey statements and feature-commitment statements below as the actual "research voice" text blocks.
 
 ## A. Current-State Journey Map (slide 001)
+![Slide 1](/work/insurance-is-complicated/001.jpg)
 Large vertical journey/flowchart tracing a prospective customer/broker from marketing contact through full enrollment — the "before" picture behind the case study's title. Phases: Marketing Campaigns → Lead Generated → Lead Entry (Pre Condor Engagement / Candor Engagement / Data Entry / Selection Phase / Processing Phase) → 4a. Underwriting Process (First Contact / Data Entry) → 4b. Fully Insured (Selection Phase / Confirmation Phase) → 5. Enrollment (Enrolled Phase).
 
 Embedded decision-tree questions: "Should our message be controlled by the salesperson?" / "Should our message be controlled by the associate?" / "What customer information?" / "Should Candor be represented in sales activities?" / "Should we ask for a customer's consent to use some information?"
@@ -22,6 +23,8 @@ Embedded decision-tree questions: "Should our message be controlled by the sales
 (Fine-grain step labels along the main spine were too small to transcribe reliably — recreate the phase structure, not every node.)
 
 ## B. Competitive Benchmarking — Usability & Service Blueprints (slides 002–003)
+![Slide 2](/work/insurance-is-complicated/002.jpg)
+![Slide 3](/work/insurance-is-complicated/003.jpg)
 
 **Slide 002 — Sankey diagram:** Usability ratings (1–7) → Subject (Candor, Ease, Easy App Online, FormFire, HealthSherpa, Simply Insured, ehealthinsurance) → Features (Broker Reports, Community Rated Plans, Direct Upload Documents, Employee Portal, Enroll Clients, Full Carrier MKT, Level Funded Plans, Make Payment, Online Level Funded Application, Portal Renewal, Quick Quote, Self Enroll, Selfservice Change, Single Plans, Small Business Plans, Spreadsheet Upload, Third Party Integration). Candor's flow concentrates around rating "4" with some reaching "7"; Ease and FormFire spread wider.
 
@@ -31,10 +34,14 @@ Embedded decision-tree questions: "Should our message be controlled by the sales
 - Easy Apps Online: Step 1–4, callout "At this point everyone is enrolled in health coverage."
 
 ## C. Research Framework — Service Quality Model (slide 004)
+![Slide 4](/work/insurance-is-complicated/004.jpg)
 Four circles — Reliability, Personal Attention, Comfort, Features — feed into Service Quality → Customer Loyalty.
 Citation: Dabholkar, P. A., Shepherd, C. D., & Thorpe, D. I. (2000). A comprehensive framework for service quality: an investigation of critical conceptual and measurement issues through a longitudinal study. *Journal of retailing*, 76(2), 139-173.
 
 ## D. Customer Research Findings — 17 SERVQUAL statements (slides 005–007)
+![Slide 5](/work/insurance-is-complicated/005.jpg)
+![Slide 6](/work/insurance-is-complicated/006.jpg)
+![Slide 7](/work/insurance-is-complicated/007.jpg)
 
 **Reliability**
 1. When Candor's employees promise to do something by a certain time, they will do so.
@@ -62,6 +69,7 @@ Citation: Dabholkar, P. A., Shepherd, C. D., & Thorpe, D. I. (2000). A comprehen
 (The fourth dimension, "Features," isn't given its own 1–17 list — it resurfaces via the stakeholder feature-commitment items 18–21 below.)
 
 ## E. Competitor Business Model Analysis — HealthSherpa (slide 008)
+![Slide 8](/work/insurance-is-complicated/008.jpg)
 Relationship map: Carrier A/B/C, Brokers, "HealthSherpa is free."
 - Carrier A ↔ HealthSherpa: "Give them bodies" / "Appoints Health Sherpa to sell" ($)
 - Brokers → Carrier A: "No Appointment"
@@ -71,6 +79,10 @@ Relationship map: Carrier A/B/C, Brokers, "HealthSherpa is free."
 Callout: "Health Sherpa's business model is banking on the fact that brokers are not appointed with all carriers and HealthSherpa is."
 
 ## F. Defining Requirements — Feature Commitments by Stakeholder (slides 009–012)
+![Slide 9](/work/insurance-is-complicated/009.jpg)
+![Slide 10](/work/insurance-is-complicated/010.jpg)
+![Slide 11](/work/insurance-is-complicated/011.jpg)
+![Slide 12](/work/insurance-is-complicated/012.jpg)
 
 **Employee Focus Features**
 18a. Candor will provide a Intuitive profile creation portal.
@@ -99,27 +111,37 @@ Callout: "Health Sherpa's business model is banking on the fact that brokers are
 These map to the ecosystem's four main product/user tracks (Employee, HR/Employer, Broker, internal Candor ops).
 
 ## G. Research Synthesis — From Survey Items to Design Clusters (slides 013–015)
+![Slide 13](/work/insurance-is-complicated/013.jpg)
 Slide 013 re-shows the Slide 004 diagram with Reliability/Personal Attention/Comfort circled (Features excluded) — "we're focusing on these three."
 
 **Routine Knowledge-base** (slide 014) — derived from statements 2, 5, 13, 16, 17.
+![Slide 14](/work/insurance-is-complicated/014.png)
 **Communication Study** (slide 015) — derived from statements 5, 6, 9, 10, 8, 16, 17.
+![Slide 15](/work/insurance-is-complicated/015.jpg)
 
 This re-clustering is the analytical pivot of the case study, directly motivating the solution below.
 
 ## H. Solution — The Call Center Training Tool (slide 016)
+![Slide 16](/work/insurance-is-complicated/016.png)
 Circular-flow process: Training is scheduled → Parties create training program → **Training conducted** → Study folder created ("triggered by the completion of a training session with team members") → Team members conduct customer service → acquire transcription → Run Frequency → Excel Template created ("will show: Word shifts between training periods. Member vocabulary evolution. Weigh against group finalize to call made ratio.") → Results attached to Excel sheet with meta-data (Call Name/Date/Time/Duration/Etc.) → **Parties evaluate results** → Parties create strategy for future training cycle ("Any changes in process and message will be added to the next training cycle agenda.") 
 Callout: "Any changes made in strategy at this point will skew results unless otherwise accounted for by creating a augmented study folder."
 
 Mechanism: training sessions are recorded/transcribed; transcripts + metadata feed an Excel template tracking word-choice shifts and vocabulary evolution between training periods, weighed against a finalize-to-call-made ratio; results feed a continuous evaluate-and-adjust loop.
 
 ## I. Competitive Benchmarking — Information Architecture / Sitemaps (slides 017–019, + 026 appendix)
+![Slide 17](/work/insurance-is-complicated/017.jpg)
+![Slide 19](/work/insurance-is-complicated/019.jpg)
+![Slide 26](/work/insurance-is-complicated/026.jpg)
 Three near-identical-format sitemap trees for Candor, FormFire, and HealthSherpa broker portals (each rooted at "Broker Landing Page"), plus a fourth appendix sitemap for Applied Epic (slide 026) benchmarked separately. Useful as a side-by-side competitive teardown graphic rather than prose — full node lists preserved in the raw transcription if needed.
 
 ## J. System Design — Personas, Ecosystem & Architecture (slides 020–025)
+![Slide 24](/work/insurance-is-complicated/024.jpg)
 
 **C4 notation legend** (slide 020): Stakeholder, Staff, Mobile Container, Web Browser Container, Software System, Container Database, Existing Software System, Relationship, Component, Expanded Container.
+![Slide 20](/work/insurance-is-complicated/020.jpg)
 
 **Personas** (slide 021):
+![Slide 21](/work/insurance-is-complicated/021.jpg)
 - Association Members — "A customer group that is part of and comes to us from a association."
 - Broker — "A customer that has a license with Candor"
 - Business Owners — "A costumer group that comes to us outside of an association."
@@ -130,8 +152,10 @@ Three near-identical-format sitemap trees for Candor, FormFire, and HealthSherpa
 - CSR (added later, slide 024) — "Interact with customers to handle complaints, process orders, and provide information about an organization's products and services."
 
 **Candor Unified Benefit Ecosystem** (slide 022): central system box — "Allows stakeholders a end-to-end benefit experience. (Management, Sales, Advocacy)" — connected to all personas plus Ring Central ("Provider of cloud-based communications and collaboration solutions for businesses" — "Costumer call and messaging management"), Vericred ("Digital Distribution Of Health Insurance and Employee Benefits"), ZOHO ("Manages a company's interaction with current and potential customers" — "Procedure and pipeline management").
+![Slide 22](/work/insurance-is-complicated/022.jpg)
 
 **API Application architecture** (slide 023): product suite (Employer Stargate, Employer Anubis, Employee Anubis, Digital Enhanced Agency, Candor Digital Briefcase, Candor Cross Sell Portal) → shared API Application layer → central Database. Products:
+![Slide 23](/work/insurance-is-complicated/023.jpg)
 - Employer Stargate — "Self-service portal with the ability to, enter data, enroll, purchase etc"
 - Employer/Employee Anubis — "Employee individual information center, communication channel, & data entry channel"
 - Digital Enhanced Agency — "Agency management platform (Business analytics and automated SERVQUAL procedure and metrics)"
@@ -139,6 +163,7 @@ Three near-identical-format sitemap trees for Candor, FormFire, and HealthSherpa
 - Candor Cross Sell Portal — "Broker platform for individualized full life coverage. Short Term Disability Insurance, Long Term Disability Insurance, Retirement"
 
 **Product index** (slide 025): clean summary grid of the above seven products with their one-line descriptions — good as a "the products we built" section.
+![Slide 25](/work/insurance-is-complicated/025.jpg)
 
 ## Flags for the rebuild
 - Slide 001's fine-grain journey map detail wasn't legible at available resolution — recreate the phase structure, not every node, unless a higher-res source exists.
@@ -146,3 +171,8 @@ Three near-identical-format sitemap trees for Candor, FormFire, and HealthSherpa
 - Slide 026 (Applied Epic appendix) reads as an afterthought placed after the system-architecture section rather than next to the other competitor IA slides (017–019) — consider moving it.
 - "Features" as a SERVQUAL dimension never gets its own 1–17 list like the other three — only resurfaces via the stakeholder items 18–21.
 - Almost nothing here is prose to lift directly — budget real design/development time to recreate the diagrams (journey map, Sankey, service blueprints, SERVQUAL circles, training-tool flow, IA sitemaps, C4 architecture) rather than expecting to just paste in text.
+
+
+## Additional process photos
+
+![Slide 18](/work/insurance-is-complicated/018.jpg)

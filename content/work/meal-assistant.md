@@ -47,6 +47,8 @@ One study explores motivations (diagnostic); another examines breakpoints across
 
 [Image: unsplash photograph of fresh produce/ingredients, positioned between the qualitative findings and the quantitative study section]
 
+![](/work/meal-assistant/001.png)
+
 ## Un-Moderated Study
 **Rationale:** Captures natural behavior at scale without facilitator influence — Authenticity (reduced social desirability bias), Scalability (larger/more diverse samples without scheduling constraints), Speed & Cost Efficiency (no live moderation), Contextual Insights (real-world device usage reveals authentic friction), Quant + Qual Mix (structured metrics alongside open-ended feedback).
 **Implementation:** Two pilot studies refined the structure. Tasks leveraged the Jobs-to-Be-Done framework — meal planning, recipe translation, shopping with control, saving versions, personalization — in realistic scenarios.
@@ -94,3 +96,13 @@ Additional insight: "Dialogue is work" — conversation itself creates cognitive
 
 ## Summary
 User research for a meal planning assistant developed for Kroger through Cooklist. Combines qualitative depth (moderated Wizard-of-Oz) with quantitative breadth (unmoderated testing) to triangulate adoption barriers. Core insights: trust emerges from personalization and transparency; real-world planning matters more than novelty; the moment of converting a meal plan to purchases is critical. The brief crystallizes these findings into a strategic narrative for product development.
+
+
+## Additional photos
+
+![](/work/meal-assistant/002.png)
+![](/work/meal-assistant/003.png)
+![](/work/meal-assistant/004.png)
+![](/work/meal-assistant/005.png)
+![](/work/meal-assistant/006.jpg)
+![](/work/meal-assistant/007.png)

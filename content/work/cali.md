@@ -17,6 +17,8 @@ Source: live page text at /cali/ (real HTML text, not a slide deck).
 
 [Image: dashboard/analytics screenshot showing competitive metrics]
 
+![](/work/cali/001.png)
+
 **Role:** Principal researcher and methodology architect. Defined measurement framework, sampling strategy, reporting cadence. Partnered across product, design, and leadership.
 **Scope:** Competitive intelligence, longitudinal behavioral research, trust/adoption/AI-human interaction measurement.
 
@@ -35,10 +37,14 @@ CALI collects structured qualitative signals weekly with stable coding, producin
 
 [Image: measurement framework visualization]
 
+![](/work/cali/002.png)
+
 ## Output Cadence & Cost
 Monthly pulse + quarterly synthesis. Baseline: 15 participants/month across 3 services = ~$20k/year (~3% of CX budget). Scalable to biweekly or weekly.
 
 [Image: cost/resourcing chart]
+
+![](/work/cali/003.png)
 
 ## Impact & Value
 **Enables:** Immediate diagnosis of performance peaks/valleys; early risk detection; reduced assumption reliance.
@@ -46,4 +52,13 @@ Monthly pulse + quarterly synthesis. Baseline: 15 participants/month across 3 se
 
 [Image: impact/results visualization]
 
+![](/work/cali/004.png)
+
 **Bottom Line:** "Replaced episodic research with continuous competitive intelligence—grounded in real customer behavior."
+
+
+## Additional photos
+
+![](/work/cali/005.png)
+![](/work/cali/006.png)
+![](/work/cali/007.png)

@@ -12,22 +12,34 @@ Effective customer data strategy requires understanding three interconnected ele
 
 [Image: Mural board — abstract visual with text elements, illustrating the foundational three-element framework]
 
+![](/work/data-strategy/001.png)
+
 ## Discovery Phase ("First we diverge")
 Developed for a Fortune 500 company with 420,000+ employees possessing advanced targeting systems. The discovery process involved interviewing 43 teams over approximately 64 hours, documenting data workflows and organizational structures.
 
 **Research Methodology:** Structured templates captured team composition, responsibilities, and value delivery. Visual workflows and diagrams were organized in containers to identify process blockers and opportunities.
 
 [Image: word cloud, "Many Many Many Teams" — names of the 43 interviewed teams, scaled by size]
+
+![](/work/data-strategy/002.png)
 [Image: interview template screenshot — structured format for capturing team information]
+
+![](/work/data-strategy/003.png)
 [Image: workflow container example — organizing images, diagrams, and process flows]
+
+![](/work/data-strategy/004.png)
 
 **Data Classification:** A two-by-two plot categorizes data types — implicit vs. explicit, discrete vs. non-discrete vector data — helping teams understand their position within the value chain.
 
 [Image: two-by-two data classification matrix]
 
+![](/work/data-strategy/005.png)
+
 **Organizational Mapping:** A comprehensive diagram illustrates data flows across the organization, revealing that Privacy and Fraud teams provide system oversight and business rules.
 
 [Image: organizational data flow diagram — team interconnections and data movement across the company]
+
+![](/work/data-strategy/006.png)
 
 ## Ecosystem Analysis
 
@@ -35,9 +47,13 @@ Developed for a Fortune 500 company with 420,000+ employees possessing advanced 
 
 [Image: research-channels mural — scholarly, journalistic, and audiovisual sources]
 
+![](/work/data-strategy/007.jpg)
+
 **Research Tools:** MAXQDA qualitative research software recommended for managing large research datasets across multiple disciplines.
 
 [Image: MAXQDA software screenshot]
+
+![](/work/data-strategy/008.jpg)
 
 **Insight Development:** Emphasizes recognizing personal biases and achieving reflexivity. Research should continue "until the material begins to reference itself — that's when you know you've captured a meaningful slice of the discourse."
 
@@ -48,5 +64,7 @@ Developed for a Fortune 500 company with 420,000+ employees possessing advanced 
 **Key Metrics:** Three input categories drive positive reciprocity: **Value, Agency, and Trust.**
 
 [Image: North Star framework mural — Customer Data Reciprocity with Value, Agency, and Trust metrics]
+
+![](/work/data-strategy/009.png)
 
 **Implementation:** Leadership shifts from research to organizational steering, managing stakeholder buy-in and testing recommendations across departments.
