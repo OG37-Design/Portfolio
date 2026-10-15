@@ -10,6 +10,12 @@ export interface CaseStudy {
   title: string;
   subtitle: string;
   hasImages: boolean;
+  /** Position on the home page grid. */
+  order: number;
+  /** Caption shown under the cover on the home page grid. */
+  cardTitle: string;
+  /** Cover image for the home page grid. */
+  cover: string;
   content: string;
 }
 
@@ -29,6 +35,9 @@ export function getCaseStudy(slug: string): CaseStudy {
     title: data.title as string,
     subtitle: data.subtitle as string,
     hasImages: Boolean(data.hasImages),
+    order: Number(data.order ?? Infinity),
+    cardTitle: (data.cardTitle as string) ?? (data.title as string),
+    cover: `/covers/${slug}.webp`,
     content,
   };
 }
@@ -36,7 +45,7 @@ export function getCaseStudy(slug: string): CaseStudy {
 export function getAllCaseStudies(): CaseStudy[] {
   return getAllCaseStudySlugs()
     .map(getCaseStudy)
-    .sort((a, b) => a.title.localeCompare(b.title));
+    .sort((a, b) => a.order - b.order || a.title.localeCompare(b.title));
 }
 
 export function getCaseStudyImages(slug: string): string[] {

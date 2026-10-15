@@ -2,6 +2,8 @@
 title: "Automotive HMI Prototyping"
 subtitle: "A physical testbed for automotive HMI design"
 hasImages: true
+order: 6
+cardTitle: "Prototyping Instrument for Automotive HMI"
 ---
 
 

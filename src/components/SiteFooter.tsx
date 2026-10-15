@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export function SiteFooter() {
   return (
     <footer className="mt-auto border-t border-border">
@@ -15,7 +17,11 @@ export function SiteFooter() {
             className="hover:text-foreground"
           >
             LinkedIn
-          </a>
+          </a>{" "}
+          ·{" "}
+          <Link href="/resume" className="hover:text-foreground">
+            Resume
+          </Link>
         </p>
       </div>
     </footer>

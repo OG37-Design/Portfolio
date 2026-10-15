@@ -2,6 +2,8 @@
 title: "Bita"
 subtitle: "A preventative dental health ecosystem connecting patients, dentists, and insurers"
 hasImages: true
+order: 10
+cardTitle: "Preventative Dental Ecosystem"
 ---
 
 

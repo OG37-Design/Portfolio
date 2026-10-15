@@ -2,6 +2,8 @@
 title: "Embracing Complexity"
 subtitle: "Mapping and modernizing USDA NASS's survey operations"
 hasImages: true
+order: 7
+cardTitle: "Embracing Complexity"
 ---
 
 

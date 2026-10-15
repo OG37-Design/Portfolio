@@ -2,6 +2,8 @@
 title: "Insurance Is Complicated"
 subtitle: "Mapping and redesigning the broker insurance enrollment experience — Candor USA"
 hasImages: true
+order: 8
+cardTitle: "Insurance Is Complicated"
 ---
 
 

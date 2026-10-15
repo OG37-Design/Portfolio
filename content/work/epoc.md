@@ -2,6 +2,8 @@
 title: "EPOC"
 subtitle: "An AI system that manages IoT devices and data inputs to deliver real-time, actionable knowledge"
 hasImages: true
+order: 9
+cardTitle: "AI for everyone"
 ---
 
 

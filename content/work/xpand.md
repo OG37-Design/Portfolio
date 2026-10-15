@@ -2,6 +2,8 @@
 title: "Xpand"
 subtitle: "A knowledge-sharing platform that turns time into currency"
 hasImages: true
+order: 12
+cardTitle: "Teach Learn Earn"
 ---
 
 

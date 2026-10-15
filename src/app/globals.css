@@ -1,17 +1,15 @@
 @import "tailwindcss";
 
 /*
- * Matches the live Squarespace site's actual (mostly un-customized)
- * styling as closely as it could be extracted: no Typekit font was
- * configured (typekitId was empty), so it falls back to the template's
- * system font stack ("Helvetica Neue", Arial, sans-serif) seen
- * throughout its compiled CSS; body text color #222 and link color
- * #0085bd both come directly from that CSS. No dark-mode variant
- * exists on the source site, so this doesn't add one either.
+ * Colors follow the live Squarespace site: off-white page, near-black
+ * text, gray inactive nav links. Body copy keeps link color #0085bd
+ * from its compiled CSS. No dark-mode variant exists on the source
+ * site, so this doesn't add one either.
  */
 :root {
-  --background: #ffffff;
-  --foreground: #222222;
+  --background: #fafafa;
+  --foreground: #1a1a1a;
+  --nav: #888888;
   --muted: #767676;
   --border: #e5e5e5;
   --accent: #0085bd;
@@ -20,10 +18,11 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-nav: var(--nav);
   --color-muted: var(--muted);
   --color-border: var(--border);
   --color-accent: var(--accent);
-  --font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-sans: var(--font-jost), "Futura PT", Futura, "Helvetica Neue", Arial, sans-serif;
 }
 
 body {

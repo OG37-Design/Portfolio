@@ -2,6 +2,8 @@
 title: "Graey Space"
 subtitle: "A modular storage system for clothes worn but not yet ready to wash"
 hasImages: true
+order: 11
+cardTitle: "Graey Space"
 ---
 
 

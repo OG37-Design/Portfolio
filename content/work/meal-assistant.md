@@ -2,6 +2,8 @@
 title: "Meal Assistant"
 subtitle: "Two studies, one adoption story — Kroger / Cooklist"
 hasImages: true
+order: 2
+cardTitle: "Proof of Concept in collaboration with Cooklist, Inc."
 ---
 
 

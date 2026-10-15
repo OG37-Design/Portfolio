@@ -2,6 +2,8 @@
 title: "CALI"
 subtitle: "Competitive Agent Longitudinal Intelligence"
 hasImages: true
+order: 1
+cardTitle: "CALI: Competitive Agent Longitudinal Intelligence"
 ---
 
 

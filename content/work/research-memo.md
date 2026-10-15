@@ -2,6 +2,8 @@
 title: "Research Memo"
 subtitle: "European cab-over acceptance in the US market — Nikola Motors"
 hasImages: true
+order: 5
+cardTitle: "Research Memo"
 ---
 
 

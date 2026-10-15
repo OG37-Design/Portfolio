@@ -2,6 +2,8 @@
 title: "Total Consent Design"
 subtitle: "A unified, trustworthy consent experience across products"
 hasImages: true
+order: 3
+cardTitle: "Total Consent Design"
 ---
 
 
