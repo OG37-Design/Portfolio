@@ -6,65 +6,101 @@ order: 3
 cardTitle: "Total Consent Design"
 ---
 
-
-Source: live page text at /total-consnet-design/ (real HTML text, not a slide deck; note the URL itself has a typo, "consnet").
+# Total Consent Design
 
 ## The Customer Consent Problem
-Multiple applications manage consent independently with inconsistent user agreements, creating fragmented experiences and limiting scalability. Consent forms the backbone of trusted commerce — it grants users agency over data usage while reducing legal risk and enabling compliant personalization for businesses.
+
+Today, multiple applications handle consent independently and user agreements are presented inconsistently. This results in a fragmented customer experience, extra effort for staff to manage consents, and limited scalability as new consent are introduced.
+
+Consent is the foundation of trusted e-commerce. It gives people clear choice and control over how their data is used—building confidence to browse, personalize, and buy. For businesses, explicit, well-managed consent reduces legal risk, improves data quality, and unlocks compliant personalization that lifts conversion and retention. In short: no consent, no trust; no trust, no growth.
 
 ## Consent Vision
-**Future state:** Trust earned through transparent choices, neutral design and language, self-serve management capabilities, and educational guidance.
-**Four core goals:**
-- Easy: Low-friction flows
-- Understandable: Plain language with contextual explanations
-- Consistent: Standardized patterns across products
-- Manageable & Revokable: Self-service dashboards with one-click revocation
+
+A future where trust is earned through clear, easy choices; neutral design and language; self-serve controls to manage and revoke consent; and guidance that deepens understanding.
+
+**Goals**
+
+- **Easy:** Simple, low-friction consent flows
+- **Understandable:** Plain language and just-in-time explanations
+- **Consistent:** Standard patterns across products and channels
+- **Manageable & Revokable:** Self-service dashboards with one-click revoke
 
 ## Why This Matters
-1. Rapidly evolving privacy regulations requiring business flexibility
-2. Growing customer awareness and concern about data usage
-3. Erosion of trust when privacy practices lack transparency
 
-## Research
-Mixed-methods usability test with 102 participants using a think-aloud protocol. Researchers evaluated three design alternatives and collected post-session surveys measuring risk tolerance and privacy stance.
-**Methodology:** Usability test + attitudinal survey. Think-aloud interactions with three designs. Sample size: 102 participants. Measures: qualitative observations, task feedback, risk/privacy profiles. Analysis: cross-design theme comparison segmented by user profiles.
+- Laws and regulations surrounding privacy and consent are rapidly changing, and the business needs to easily adapt to these changes.
+- Customers are waking up to and paying more attention to how their data is being used by companies. Concern for data privacy is growing.
+- When privacy practices aren’t transparent, trust erodes. People need to know what data is used, how it’s used, who it’s shared with, and how to change their choices later.
 
-[Images 1–5: screenshots of the three consent design prototypes tested — different layout approaches, toggle mechanisms, information hierarchies]
+## Research on the topic
 
 ![](/work/total-consent-design/001.png)
+
+## Consent Design Study, UX Research, January 2025; n=102 - Findings
+
+I evaluated three alternative designs using a think-aloud usability study with **102 participants**. Participants interacted with each design while narrating their decisions and pain points. After the sessions, I collected a brief survey on **risk tolerance** and **privacy stance** to contextualize behaviors and segment insights.
+
+**Methodology**
+
+- **Study type:** Mixed-methods usability test + short attitudinal survey
+- **Protocol:** Think-aloud interactions with three designs
+- **Sample:** 102 participants
+- **Measures:** Qualitative observations, task feedback, and attitudes (risk tolerance, privacy stance)
+- **Analysis:** Compared themes and preferences across designs and by risk/privacy profiles
+
 ![](/work/total-consent-design/002.png)
+
 ![](/work/total-consent-design/003.png)
+
 ![](/work/total-consent-design/004.png)
+
 ![](/work/total-consent-design/005.png)
 
-## Key Themes
-1. **Agreement Engagement:** Users accept lengthy agreements without reading, describing them as "blanket" or "rubber-stamp" approvals.
-2. **Control & Self-Service:** Strong demand for granular toggles (communication, data-sharing settings) and easily adjustable preferences.
-3. **Consent Management Usability:** Toggle-based controls performed well — intuitive, comprehensive, straightforward for preference updates.
-4. **Data-Sharing Anxiety:** Third-party sharing generates significant concern; participants expressed uncertainty about actual consent scope.
-5. **Clarity Drives Trust:** Vague or overly complex language undermines confidence; users prefer plain, specific terminology.
-6. **Context Matters:** Information needs vary by scenario (initial setup vs. later management, agreement complexity) — designs should adapt detail levels accordingly.
+![](/work/total-consent-design/006.png)
+
+# Key Themes
+
+**Agreement Engagement**
+People often accept long agreements without reading—describing them as “blanket” or “rubber-stamp” approvals.
+
+**Control & Self-Service**
+Strong appetite for granular controls (e.g., communication and data-sharing settings) and quick, adjustable preferences.
+
+**Consent Management Usability**
+Toggle-based controls tested well—intuitive, comprehensive, and easy for updating preferences.
+
+**Data-Sharing Anxiety**
+Third-party sharing raises concern; some participants were unsure what they were actually consenting to.
+
+**Clarity Drives Trust**
+Vague or overly complex language erodes trust; participants want plain, specific terms.
+
+**Context Matters**
+Information needs change by moment (first-run vs. managing later, length/complexity of terms). Designs should flex to show more or less detail as needed.
 
 ## Outcomes of Better Consent
-**Trust improvement:** Seeing third-party sharing details improved trust for 91% of study respondents.
-**Brand loyalty:** Easy ways to update or revoke sharing preferences positively impact loyalty for 84% of respondents.
-**Reduced complexity:** Streamlined flows lower customer frustration and legal exposure.
-**Scalability:** Standardized, modular patterns enable rapid regulatory adaptation and faster feature delivery.
 
-## Future Consent Model
-[Images 6–11: six wireframes/mockups depicting the proposed consent framework — a phased model progressing from initial consent flows through management dashboards, granular preference controls, and revocation interfaces; clean information architecture, toggle-based selections, clarity-focused microcopy]
+**Improving Trust**
+Transparency about **who data is shared with** increases trust across privacy segments. In our study, **91%** said seeing third-party sharing details improved their trust.*
 
-![](/work/total-consent-design/006.png)
+**Strengthening Brand Loyalty**
+**84%** reported that easy ways to **update or revoke** sharing preferences positively impact loyalty.*
+
+**Reducing Complexity**
+Simpler, streamlined consent flows lower the risk that customers can’t manage or revoke consent—reducing complaints and potential legal exposure.
+
+**Making Consent Scalable**
+Standardized, modular consent patterns help teams adapt quickly to new use cases and changing regulations, enabling faster delivery.
+
+# Future Consent Model
+
 ![](/work/total-consent-design/007.png)
+
 ![](/work/total-consent-design/008.png)
+
 ![](/work/total-consent-design/009.png)
+
 ![](/work/total-consent-design/010.png)
+
 ![](/work/total-consent-design/011.png)
-
-## Summary
-Consent design framed as a business and UX imperative, grounded in empirical research showing demand for transparency, control, and simplicity in how personal data is governed.
-
-
-## Additional photos
 
 ![](/work/total-consent-design/012.png)

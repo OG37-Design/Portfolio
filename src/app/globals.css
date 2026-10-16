@@ -31,44 +31,72 @@ body {
   font-family: var(--font-sans);
 }
 
+/*
+ * Case study text, from the live site's custom CSS: Futura PT light
+ * uppercase headings with .06em tracking (h1 2em, h2 1.6em of 15px),
+ * Proxima Nova light 15px body at 1.8 line height, and a hairline
+ * left rule on blockquotes.
+ */
+.prose-content {
+  font-family: var(--font-body), "Proxima Nova", "Helvetica Neue", Arial,
+    sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.8;
+}
+
+.prose-content h1,
+.prose-content h2,
+.prose-content h3 {
+  font-family: var(--font-sans);
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  line-height: 1.2;
+  margin: 2em 0 0.75em;
+}
+
+.prose-content h1 {
+  font-size: 30px;
+}
+
 .prose-content h2 {
-  font-size: 1.375rem;
-  font-weight: 600;
-  margin-top: 2.5rem;
-  margin-bottom: 0.75rem;
+  font-size: 24px;
 }
 
 .prose-content h3 {
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin-top: 1.75rem;
-  margin-bottom: 0.5rem;
+  font-size: 19.5px;
+  font-weight: 400;
+}
+
+.prose-content > :first-child,
+.prose-content > header > :first-child {
+  margin-top: 0;
 }
 
 .prose-content p {
-  margin-top: 0.9rem;
-  margin-bottom: 0.9rem;
-  line-height: 1.75;
-  color: var(--foreground);
+  margin: 0 0 1em;
 }
 
 .prose-content blockquote {
-  border-left: 2px solid var(--accent);
-  padding-left: 1rem;
-  margin: 1.25rem 0;
-  color: var(--muted);
-  font-style: italic;
+  border-left: 1px solid #575757;
+  padding-left: 1em;
+  margin: 1em 0;
 }
 
 .prose-content ul,
 .prose-content ol {
-  margin: 0.9rem 0;
-  padding-left: 1.25rem;
-  line-height: 1.75;
+  margin: 0 0 1.5em;
+  padding-left: 1.5em;
 }
 
 .prose-content ul {
   list-style: disc;
+}
+
+.prose-content ul ul {
+  list-style: circle;
+  margin: 0;
 }
 
 .prose-content ol {
@@ -77,6 +105,10 @@ body {
 
 .prose-content strong {
   font-weight: 600;
+}
+
+.prose-content em {
+  font-size: 13px;
 }
 
 .prose-content hr {
@@ -92,6 +124,37 @@ body {
 }
 
 .prose-content img {
-  margin: 1.75rem 0;
-  display: block;
+  margin: 2.5rem 0;
+}
+
+/* A paragraph of only images: the site's side-by-side gallery. */
+.prose-content .image-row {
+  display: grid;
+  gap: 1.25rem;
+  margin: 2.5rem 0;
+}
+
+.prose-content .image-row img {
+  margin: 0;
+}
+
+/* Vimeo/YouTube embeds carried over from Squarespace video blocks. */
+.prose-content .video-embed {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  margin: 2.5rem 0;
+}
+
+.prose-content .video-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+@media (max-width: 639px) {
+  .prose-content .image-row {
+    grid-template-columns: 1fr !important;
+  }
 }

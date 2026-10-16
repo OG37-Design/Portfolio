@@ -6,61 +6,145 @@ order: 1
 cardTitle: "CALI: Competitive Agent Longitudinal Intelligence"
 ---
 
+# Case Study: CALI — Competitive Agent Longitudinal Intelligence
 
-Source: live page text at /cali/ (real HTML text, not a slide deck).
-
-## Title & subtitle
-**Case Study: CALI — Competitive Agent Longitudinal Intelligence**
-"Designed and led CALI, a longitudinal competitive intelligence system that tracks how customers actually experience, trust, and adopt AI shopping agents enabling faster, lower‑risk product decisions grounded in live market behavior."
+## Designed and led CALI, a longitudinal competitive intelligence system that tracks how customers actually experience, trust, and adopt AI shopping agents enabling faster, lower‑risk product decisions grounded in live market behavior.
 
 ## Context & Problem
-**The Challenge:** AI shopping agents evolving rapidly across competitors; traditional research methods too slow and fragmented; leadership lacked continuous benchmarks for value, trust, adoption.
-**Why It Mattered:** High uncertainty in a visible product space; late validation increased risk and rework; decisions relied on assumptions and anecdotes.
 
-[Image: dashboard/analytics screenshot showing competitive metrics]
+**The problem**
+
+- AI shopping agents are evolving rapidly across competitors.
+- Traditional research (one‑off usability tests, post‑launch surveys) is **too slow and too fragmented** to inform strategy.
+- Leadership lacked a **continuous, customer‑grounded benchmark** for value, trust, and adoption across AI agents.
+
+**Why this mattered**
+
+- High uncertainty, high visibility product space
+- Late‑stage validation increased risk and rework
+- Decisions were often based on assumptions, anecdotes, or lagging indicators
 
 ![](/work/cali/001.png)
 
-**Role:** Principal researcher and methodology architect. Defined measurement framework, sampling strategy, reporting cadence. Partnered across product, design, and leadership.
-**Scope:** Competitive intelligence, longitudinal behavioral research, trust/adoption/AI-human interaction measurement.
+**My role**
 
-## The Solution: What CALI Is
-CALI collects structured qualitative signals weekly with stable coding, producing monthly pulses and quarterly syntheses with forecasts.
+- Principal researcher and architect of the CALI methodology
+- Defined the measurement framework, sampling strategy, and reporting cadence
+- Partnered with product, design, and leadership to align outputs to decision‑making needs
 
-## How It Works
-**Sampling:** Flexible design with fresh or longitudinal participants; 2.25M+ recruitable pool.
-**Data Collection:** Participants reference actual chat history from their last three AI agent interactions (competitors included).
-**Measurement:** Structured battery assessing behavior, experience, trust, adoption.
-**Synthesis:** Monthly memos with centralized archive.
+**Scope**
 
-## Core Framework
-**Dimensions Measured:** App value; Acceptance/reuse intent; Trusting stance; Information credibility; System quality; Social influence; Organizational assurance; Optional: privacy, control, editability.
-**Composite Score:** Unweighted mean enabling "clear, high‑level comparison across agents."
+- Competitive intelligence
+- Longitudinal behavioral research
+- Trust, adoption, and AI‑human interaction measurement
 
-[Image: measurement framework visualization]
+# The Solution: What CALI Is
 
-![](/work/cali/002.png)
+**CALI is a flexible, longitudinal research system that:**
 
-## Output Cadence & Cost
-Monthly pulse + quarterly synthesis. Baseline: 15 participants/month across 3 services = ~$20k/year (~3% of CX budget). Scalable to biweekly or weekly.
+- Collects structured qualitative signals weekly
+- Applies a stable coding and measurement framework
+- Produces monthly and quarterly competitive intelligence on AI agents
 
-[Image: cost/resourcing chart]
+**What it delivers**
 
-![](/work/cali/003.png)
+- A **monthly pulse** (current behavior + composite scores)
+- A **quarterly synthesis** (trends, narratives, implications)
+- A **forecast** of likely adoption and trust trajectories
 
-## Impact & Value
-**Enables:** Immediate diagnosis of performance peaks/valleys; early risk detection; reduced assumption reliance.
-**Over Time:** Creates a living competitive benchmark; identifies differentiation, parity, risk areas; drives faster, confident decisions.
+# How It Works (Method Overview)
 
-[Image: impact/results visualization]
+**Sampling**
 
-![](/work/cali/004.png)
+- Flexible design:
+  - Fresh participants each wave **or**
+  - Longitudinal panel over time
+- Large recruitable pool (2.25M+)
 
-**Bottom Line:** "Replaced episodic research with continuous competitive intelligence—grounded in real customer behavior."
+**Data collection**
 
+- Participants walk through their **last three real interactions** with AI agents
+- Agents include competitive systems (e.g., Rufus, Sparky, Magic Apron)
+- Participants reference actual chat history (grounded recall)
 
-## Additional photos
+![](/work/cali/002.png) ![](/work/cali/003.png) ![](/work/cali/004.png)
+
+**Measurement**
+
+- Structured, repeatable battery assessing:
+  - Behavior
+  - Experience quality
+  - Trust and adoption outcomes
+
+**Synthesis**
+
+- Monthly research memo on a predictable cadence
+- Centralized archive for continuity and learning
+
+## What CALI Measures (Core Framework)
+
+> **Core dimensions**
+
+- App value (Was it worth using?)
+- Acceptance (Will I use it again?)
+- Trusting stance toward AI
+- Information credibility
+- System quality (reliability, flexibility)
+- Social influence
+- Organizational assurance
+
+**Optional high‑value dimensions**
+
+- Privacy comfort
+- Control and editability
+
+**Composite score**
+
+- All dimensions compiled into a **service composite score**
+- Calculated as an unweighted mean
+- Enables **clear, high‑level comparison across agents**
 
 ![](/work/cali/005.png)
+
+## Output Cadence & Cost Awareness
+
+**Reporting cadence**
+
+- Monthly pulse: lightweight signals + composite scores
+- Quarterly synthesis: trends, patterns, implications
+- Recorded readouts + centralized archive
+
+**Resourcing**
+
+- Baseline model:
+  - 15 participants/month
+  - 3 services
+  - 180 total participants/year 20k
+- ~3% of monthly CX allocation
+- Easily scalable to biweekly or weekly
+
 ![](/work/cali/006.png)
+
+*This approach allows us to see how customers actually use these services, where they succeed, and where friction occurs reducing reliance on assumptions and late‑stage validation. Over time, the same longitudinal signals create a clear benchmark, enabling us to directly plot our performance against the competition and identify areas of differentiation, parity, and risk. The result is faster, more confident product decisions grounded in live competitive reality.*
+
+## Impact & Value
+
+This is the most important section.
+
+**What CALI enables**
+
+- Immediate diagnosis of **why** peaks and valleys occur
+- Early detection of trust, adoption, or quality risks
+- Reduced reliance on assumptions and late‑stage validation
+
 ![](/work/cali/007.png)
+
+**Over time**
+
+- Creates a living benchmark against competitors
+- Identifies differentiation, parity, and risk areas
+- Drives faster, more confident product decisions
+
+**Bottom‑line impact**
+
+> Replaced episodic research with continuous competitive intelligence—grounded in real customer behavior.

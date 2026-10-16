@@ -6,175 +6,120 @@ order: 8
 cardTitle: "Insurance Is Complicated"
 ---
 
+My work at Candor USA
 
-Source: squarespace-export/images/insurance-is-complicated/001.jpg–026.jpg (26 slides, mostly diagrams not prose).
-Work done at Candor USA.
+![](/work/insurance-is-complicated/001.jpg)
 
-## Suggested title & subtitle
-**Title:** Insurance Is Complicated
-**Subtitle:** A UX and service-design case study for Candor USA — mapping the end-to-end broker/employer insurance enrollment journey, benchmarking competitor tools (Ease, FormFire, HealthSherpa, Simply Insured, eHealthInsurance, Applied Epic) against a SERVQUAL service-quality framework, and translating customer research into two shipped products: the Candor Digital Briefcase and a Call Center Training Tool, inside a unified "Candor Unified Benefit Ecosystem" platform architecture.
+***Current State Service Flow** The current state of the organization’s customer engagement was studied and mapped. This allowed for the organizational alignment needed to move forward with new innovation in strategic areas.*
 
-**Important note:** this case study is almost entirely diagram-driven (flowcharts, Sankey diagrams, service blueprints, C4 architecture diagrams) — there's very little free paragraph prose to lift directly. Recommend the rebuilt page leans on recreated diagrams, using the verbatim survey statements and feature-commitment statements below as the actual "research voice" text blocks.
+![](/work/insurance-is-complicated/002.jpg)
 
-## A. Current-State Journey Map (slide 001)
-![Slide 1](/work/insurance-is-complicated/001.jpg)
-Large vertical journey/flowchart tracing a prospective customer/broker from marketing contact through full enrollment — the "before" picture behind the case study's title. Phases: Marketing Campaigns → Lead Generated → Lead Entry (Pre Condor Engagement / Candor Engagement / Data Entry / Selection Phase / Processing Phase) → 4a. Underwriting Process (First Contact / Data Entry) → 4b. Fully Insured (Selection Phase / Confirmation Phase) → 5. Enrollment (Enrolled Phase).
+***Tracing Competitor Flows** From the competitor analysis, I focused on three top performers and traced their customer journey. This exercise led to new ways of thinking about how variers can be overcome in our current system.*
 
-Embedded decision-tree questions: "Should our message be controlled by the salesperson?" / "Should our message be controlled by the associate?" / "What customer information?" / "Should Candor be represented in sales activities?" / "Should we ask for a customer's consent to use some information?"
+![](/work/insurance-is-complicated/003.jpg)
 
-(Fine-grain step labels along the main spine were too small to transcribe reliably — recreate the phase structure, not every node.)
+***Apprehending Service Quality** The service provided involves technology and people to create a unified experience. I searched for a framework that would allow me to measure all parts of the service as a unified service and not individual scores for each part of the service. I ended my search with Dabholkar, P. A., Shepherd, C. D., & Thorpe, D. I. (2000). A comprehensive framework for service quality.*
 
-## B. Competitive Benchmarking — Usability & Service Blueprints (slides 002–003)
-![Slide 2](/work/insurance-is-complicated/002.jpg)
-![Slide 3](/work/insurance-is-complicated/003.jpg)
+![](/work/insurance-is-complicated/004.jpg)
 
-**Slide 002 — Sankey diagram:** Usability ratings (1–7) → Subject (Candor, Ease, Easy App Online, FormFire, HealthSherpa, Simply Insured, ehealthinsurance) → Features (Broker Reports, Community Rated Plans, Direct Upload Documents, Employee Portal, Enroll Clients, Full Carrier MKT, Level Funded Plans, Make Payment, Online Level Funded Application, Portal Renewal, Quick Quote, Self Enroll, Selfservice Change, Single Plans, Small Business Plans, Spreadsheet Upload, Third Party Integration). Candor's flow concentrates around rating "4" with some reaching "7"; Ease and FormFire spread wider.
+![](/work/insurance-is-complicated/005.jpg)
 
-**Slide 003 — Three service blueprints** (FormFire, EASE, Easy Apps Online), each with swimlanes: Physical evidence / Customer actions / Onstage contact actions / Backstage contact actions / Support processes, actors Broker/Employee/Employer.
-- FormFire: Lead, Broker Dashboard, Employee Census, Employee data entry, Broker Service Tracked, Employee sees welcome letter, Other condition, Broker checks participation, Plans and pricing, Health Insurer available for Employer, Health Quotes for Employee.
-- EASE: Broker sets up log in, Employee Log in, Employer Dashboard, Employer Log in, Profile Pages, Employer Docu-sign, Time frame notification, Group starts to review, Health Quote available for Employer/Employee, Employee signs, Broker/Employer Dashboard.
-- Easy Apps Online: Step 1–4, callout "At this point everyone is enrolled in health coverage."
+![](/work/insurance-is-complicated/006.jpg)
 
-## C. Research Framework — Service Quality Model (slide 004)
-![Slide 4](/work/insurance-is-complicated/004.jpg)
-Four circles — Reliability, Personal Attention, Comfort, Features — feed into Service Quality → Customer Loyalty.
-Citation: Dabholkar, P. A., Shepherd, C. D., & Thorpe, D. I. (2000). A comprehensive framework for service quality: an investigation of critical conceptual and measurement issues through a longitudinal study. *Journal of retailing*, 76(2), 139-173.
+***Measures of service quality** Each point would be measured to create agreed-upon metrics. At this point, we as an organization would be able to gauge our quality of service and training.*
 
-## D. Customer Research Findings — 17 SERVQUAL statements (slides 005–007)
-![Slide 5](/work/insurance-is-complicated/005.jpg)
-![Slide 6](/work/insurance-is-complicated/006.jpg)
-![Slide 7](/work/insurance-is-complicated/007.jpg)
+![](/work/insurance-is-complicated/007.jpg)
 
-**Reliability**
-1. When Candor's employees promise to do something by a certain time, they will do so.
-2. When Candor's employees promise to do something in a certain way, they will do so.
-3. Candor will maintain error-free records.
-4. Candor will perform the service right the first time.
-5. Candor's interactions with you will be consistent.
+***Low Hanging Fruit** Due to development costs and restrictions, I identified the top three service quality antecedents as the most strategic starting point to improve our service quality. This strategy relied on training our call center staff and focusing on communicating our message our mission.*
 
-**Personal Attention**
-6. Candor's employees will give you personal attention.
-7. Candor will tell you exactly when services will be performed.
-8. Candor's employees will never be too busy to respond to your requests.
-9. Employees of Candor will be courteous with you.
-10. Employees of Candor will be willing to help you.
-11. When you have a problem, Candor will show a sincere interest in solving it.
-12. Employees of Candor will give prompt service.
+![](/work/insurance-is-complicated/008.jpg)
 
-**Comfort**
-13. Employees of Candor will have the knowledge to answer your questions.
-14. Candor's employees will have the ability to solve your problems.
-15. Candor's salespeople won't pressure clients into a plan that wont fit their needs.
-16. The behavior of Candor's employees will instill confidence in clients.
-17. You will feel safe in your transactions with Candor.
+***Feature sets** Through research, I identified key features needed to create the desired customer experience. These features focus on the four major stakeholder Employee, Hr Manager, Broker, and our organization.*
 
-(The fourth dimension, "Features," isn't given its own 1–17 list — it resurfaces via the stakeholder feature-commitment items 18–21 below.)
+![](/work/insurance-is-complicated/009.jpg)
 
-## E. Competitor Business Model Analysis — HealthSherpa (slide 008)
-![Slide 8](/work/insurance-is-complicated/008.jpg)
-Relationship map: Carrier A/B/C, Brokers, "HealthSherpa is free."
-- Carrier A ↔ HealthSherpa: "Give them bodies" / "Appoints Health Sherpa to sell" ($)
-- Brokers → Carrier A: "No Appointment"
-- Brokers ↔ Carrier B/C: "Provides grass route marketing" / "Appoints Broker to sell plans"
-- Brokers ↔ HealthSherpa: "Gets clients info provide boots on the ground" / "Client management software"
+![](/work/insurance-is-complicated/010.jpg)
 
-Callout: "Health Sherpa's business model is banking on the fact that brokers are not appointed with all carriers and HealthSherpa is."
+![](/work/insurance-is-complicated/011.jpg)
 
-## F. Defining Requirements — Feature Commitments by Stakeholder (slides 009–012)
-![Slide 9](/work/insurance-is-complicated/009.jpg)
-![Slide 10](/work/insurance-is-complicated/010.jpg)
-![Slide 11](/work/insurance-is-complicated/011.jpg)
-![Slide 12](/work/insurance-is-complicated/012.jpg)
+![](/work/insurance-is-complicated/012.png)
 
-**Employee Focus Features**
-18a. Candor will provide a Intuitive profile creation portal.
-19a. Candor will provide a single channel for employee data entry.
-20a. Candor will provide high quality content.
-21a. Candor will produce a employee advocacy output.
+***Steps** Understand our current knowledge
 
-**HR Focus Features**
-18b. Candor will provide an Intuitive employee data management channel.
-19b. Candor will provide low friction channel for employee data collection and transfer.
-20b. Candor will provide an easy benefit management platform.
-21b. Candor will produce optimized plan recommendations.
+Create a consensus of what we can and can't do
 
-**Broker Focus Features**
-18c. Candor will provide an intuitive client management portal.
-19c. Candor will provide levels of automation for brokers.
-20c. Candor will provide a near frictionless carrier submission process.
-21c. Candor will provide tools for brokers to gage and strategize for their business.
+Understand our message
 
-**Internal Candor Focus Features**
-18d. Candor will provide metrics for the performance of (personal attention, comfort, features, and reliability).
-19d. Candor will measure levels of customer loyalty.
-20d. Candor will automate service failure measure.
-21d. Candor will work with hr tools such as Paylocity.
+Create a Priority of information
 
-These map to the ecosystem's four main product/user tracks (Employee, HR/Employer, Broker, internal Candor ops).
+*Must know*
 
-## G. Research Synthesis — From Survey Items to Design Clusters (slides 013–015)
-![Slide 13](/work/insurance-is-complicated/013.jpg)
-Slide 013 re-shows the Slide 004 diagram with Reliability/Personal Attention/Comfort circled (Features excluded) — "we're focusing on these three."
+*Need to know*
 
-**Routine Knowledge-base** (slide 014) — derived from statements 2, 5, 13, 16, 17.
-![Slide 14](/work/insurance-is-complicated/014.png)
-**Communication Study** (slide 015) — derived from statements 5, 6, 9, 10, 8, 16, 17.
-![Slide 15](/work/insurance-is-complicated/015.jpg)
+*Will need to know*
 
-This re-clustering is the analytical pivot of the case study, directly motivating the solution below.
+Create a forum for distributing information
 
-## H. Solution — The Call Center Training Tool (slide 016)
-![Slide 16](/work/insurance-is-complicated/016.png)
-Circular-flow process: Training is scheduled → Parties create training program → **Training conducted** → Study folder created ("triggered by the completion of a training session with team members") → Team members conduct customer service → acquire transcription → Run Frequency → Excel Template created ("will show: Word shifts between training periods. Member vocabulary evolution. Weigh against group finalize to call made ratio.") → Results attached to Excel sheet with meta-data (Call Name/Date/Time/Duration/Etc.) → **Parties evaluate results** → Parties create strategy for future training cycle ("Any changes in process and message will be added to the next training cycle agenda.") 
-Callout: "Any changes made in strategy at this point will skew results unless otherwise accounted for by creating a augmented study folder."
+Measure knowledge retention*
 
-Mechanism: training sessions are recorded/transcribed; transcripts + metadata feed an Excel template tracking word-choice shifts and vocabulary evolution between training periods, weighed against a finalize-to-call-made ratio; results feed a continuous evaluate-and-adjust loop.
+![](/work/insurance-is-complicated/013.jpg)
 
-## I. Competitive Benchmarking — Information Architecture / Sitemaps (slides 017–019, + 026 appendix)
-![Slide 17](/work/insurance-is-complicated/017.jpg)
-![Slide 19](/work/insurance-is-complicated/019.jpg)
-![Slide 26](/work/insurance-is-complicated/026.jpg)
-Three near-identical-format sitemap trees for Candor, FormFire, and HealthSherpa broker portals (each rooted at "Broker Landing Page"), plus a fourth appendix sitemap for Applied Epic (slide 026) benchmarked separately. Useful as a side-by-side competitive teardown graphic rather than prose — full node lists preserved in the raw transcription if needed.
+***Steps** Establish a call center recording program
 
-## J. System Design — Personas, Ecosystem & Architecture (slides 020–025)
-![Slide 24](/work/insurance-is-complicated/024.jpg)
+Create a Transcription bot
 
-**C4 notation legend** (slide 020): Stakeholder, Staff, Mobile Container, Web Browser Container, Software System, Container Database, Existing Software System, Relationship, Component, Expanded Container.
-![Slide 20](/work/insurance-is-complicated/020.jpg)
+Run word frequency
 
-**Personas** (slide 021):
-![Slide 21](/work/insurance-is-complicated/021.jpg)
-- Association Members — "A customer group that is part of and comes to us from a association."
-- Broker — "A customer that has a license with Candor"
-- Business Owners — "A costumer group that comes to us outside of an association."
-- Agency Manager — "A customer managing several brokers within the candor license"
-- Business HR Manager — "The person in-charge of HR within the group"
-- Employee — "An individual within a group"
-- Carriers — "Company that holds insurance policies"
-- CSR (added later, slide 024) — "Interact with customers to handle complaints, process orders, and provide information about an organization's products and services."
+Create an excel macro to categories words by associated feeling
 
-**Candor Unified Benefit Ecosystem** (slide 022): central system box — "Allows stakeholders a end-to-end benefit experience. (Management, Sales, Advocacy)" — connected to all personas plus Ring Central ("Provider of cloud-based communications and collaboration solutions for businesses" — "Costumer call and messaging management"), Vericred ("Digital Distribution Of Health Insurance and Employee Benefits"), ZOHO ("Manages a company's interaction with current and potential customers" — "Procedure and pipeline management").
-![Slide 22](/work/insurance-is-complicated/022.jpg)
+Verify this data with established ZOHO milestones (Finalize, Underwriting)
 
-**API Application architecture** (slide 023): product suite (Employer Stargate, Employer Anubis, Employee Anubis, Digital Enhanced Agency, Candor Digital Briefcase, Candor Cross Sell Portal) → shared API Application layer → central Database. Products:
-![Slide 23](/work/insurance-is-complicated/023.jpg)
-- Employer Stargate — "Self-service portal with the ability to, enter data, enroll, purchase etc"
-- Employer/Employee Anubis — "Employee individual information center, communication channel, & data entry channel"
-- Digital Enhanced Agency — "Agency management platform (Business analytics and automated SERVQUAL procedure and metrics)"
-- Candor Digital Briefcase — "Broker Focused tooling (Client management automation, Record keeping, communication channel …)"
-- Candor Cross Sell Portal — "Broker platform for individualized full life coverage. Short Term Disability Insurance, Long Term Disability Insurance, Retirement"
+Use findings to train staff and focus our message*
 
-**Product index** (slide 025): clean summary grid of the above seven products with their one-line descriptions — good as a "the products we built" section.
-![Slide 25](/work/insurance-is-complicated/025.jpg)
+![](/work/insurance-is-complicated/014.png)
 
-## Flags for the rebuild
-- Slide 001's fine-grain journey map detail wasn't legible at available resolution — recreate the phase structure, not every node, unless a higher-res source exists.
-- Multiple original typos preserved verbatim throughout (a Intuitive, wont fit, costumer, SERQUAL→SERVQUAL, a augmented, Templet, gage, grass route) — developer should decide whether to clean these up or preserve as authentic voice.
-- Slide 026 (Applied Epic appendix) reads as an afterthought placed after the system-architecture section rather than next to the other competitor IA slides (017–019) — consider moving it.
-- "Features" as a SERVQUAL dimension never gets its own 1–17 list like the other three — only resurfaces via the stakeholder items 18–21.
-- Almost nothing here is prose to lift directly — budget real design/development time to recreate the diagrams (journey map, Sankey, service blueprints, SERVQUAL circles, training-tool flow, IA sitemaps, C4 architecture) rather than expecting to just paste in text.
+***Call Center Training Tool** This was a design that emerged from the need to create a unique training plan for our call center, to measure the success of our training program and trainer. The process initially would be able to be done manually, in the future this will be an automated process. This is the mad scientist in me at work.*
 
+![](/work/insurance-is-complicated/015.jpg)
 
-## Additional process photos
+***Competitor Analysis** An in-depth competitor analysis was conducted to attain best practice in the market. From here a minimum viable product emerged that would be competitive.*
 
-![Slide 18](/work/insurance-is-complicated/018.jpg)
+![](/work/insurance-is-complicated/016.jpg)
+
+***Interesting Business Model** In research, I came across a unique business model. HealthSherpa gives away its software to brokers and counts on the odds of the broker not being appointed with the carrier the customer chooses. In addition, HealthSherpa has a grassroots marketing they receive from the broker.*
+
+![](/work/insurance-is-complicated/017.jpg)
+
+***Understanding competitor architecture** I mapped out how competitors layout their features in their application with the intent of identifying UI errors and minium viable features for the future installment of our software.*
+
+![](/work/insurance-is-complicated/018.jpg)
+
+![](/work/insurance-is-complicated/019.jpg)
+
+![](/work/insurance-is-complicated/020.jpg)
+
+***The future build begins to take shape.** What you see here is the result of taking into account development cycles, product needs, and other internal friction. This would be the beginning of our new product the Candor Brief Case.*
+
+![](/work/insurance-is-complicated/021.jpg)
+
+***The C4 model for visualising software architecture Context, Containers, Components and Code** The C4 model was created as a way to help software development teams describe and communicate software architecture, both during up-front design sessions and when retrospectively documenting an existing codebase. It's a way to create maps of your code, at various levels of detail, in the same way you would use something like Google Maps to zoom in and out of an area you are interested in.*
+
+![](/work/insurance-is-complicated/022.jpg)
+
+***Diagram key/legend** These are each of the components used in the rest of the diagram. The reason for the use of the C4 diagram was an attempt to bridge the gap between developers and investors. As the team designed new possible futures I neede a way to communicate the overall system to both parties.*
+
+![](/work/insurance-is-complicated/023.jpg)
+
+***Level 1: System Context diagram** A System Context diagram is a good starting point for diagramming and documenting a software system, allowing you to step back and see the big picture.*
+
+![](/work/insurance-is-complicated/024.jpg)
+
+***Level 2: Container diagram** The Container diagram shows the high-level shape of the software architecture and how responsibilities are distributed across it. It also shows the major technology choices and how the containers communicate with one another.*
+
+![](/work/insurance-is-complicated/025.jpg)
+
+***Major Product Lines***
+
+![](/work/insurance-is-complicated/026.jpg)
+
+***Level 3: Component diagram** The Component diagram shows how a container is made up of a number of "components", what each of those components are, their responsibilities and the technology/implementation details.*

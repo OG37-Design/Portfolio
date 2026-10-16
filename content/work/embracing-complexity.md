@@ -6,81 +6,54 @@ order: 7
 cardTitle: "Embracing Complexity"
 ---
 
-
-Source: live page text at /new-page-3/ (was password-protected, unlocked by user). Work for Steampunk.
-
-## Opening
-"USDA NASS hired Steampunk to understand the end-to-end flow of their survey creation, distribution, data collection, and dissemination processes." A team was assembled to research the USDA NASS organization across 12 siloed departments, beginning with secondary research followed by 28 semi-structured interviews with key participants.
-
-[Image: USDA logo, near opening paragraph]
-
 ![](/work/embracing-complexity/001.png)
 
-## 1. Systems Identification
-"The image above represents early work aimed at identifying systems." Early efforts mapped software across the organization on a Miro board, illustrating connections and information flow between departments.
+**USDA NASS hired Steampunk to understand the end-to-end flow of their survey creation, distribution, data collection, and dissemination processes.** A team was assembled to conduct research into the USDA NASS organization, which consisted of 12 siloed departments. The research began with secondary sources, aimed at gaining a surface-level understanding of the ecosystem in which NASS operates. Insights from this phase informed a semi-structured interview guide, which was used to conduct one-on-one interviews with 28 key participants. The information gathered from these interviews was codified and used to shape the overall strategy. The work below represents the outputs I generated during this research process.
 
-[Image: "NASS 360" — early systems mapping visualization, software connections on a Miro board]
+![](/work/embracing-complexity/002.png)
 
-![](/work/embracing-complexity/002.jpg)
+***The image above represents early work aimed at identifying systems.** During the secondary research phase, it became clear that each silo within the organization was organized around specific software. As I gathered insights into the various types of software in use, I mapped them on a Miro board, illustrating how they connected to one another, along with the flow of information—both intake and output.*
 
-## 2. Ecosystem Mapping
-"As more of the software ecosystem is identified, a clearer picture of the NASS ecosystem begins to emerge." Team members traced information flows and distributed workload through collaborative sticky-note documentation.
+![](/work/embracing-complexity/003.png)
 
-[Image: "NASS System Diagram" — expanded ecosystem visualization with sticky notes showing software categories and information flows]
+***As more of the software ecosystem is identified, a clearer picture of the NASS ecosystem begins to emerge.** The method used to arrive at this understanding is both beneficial and effective in several ways. First, at any point, a team member can look at a specific software category and follow the information flow that each software facilitates. Secondly, each blank sticky note serves as a call to action for team members to fill in with relevant information about that category, effectively distributing the workload of understanding this complex system.*
 
-![](/work/embracing-complexity/003.jpg)
+![](/work/embracing-complexity/004.jpg)
 
-## 3. Interview Research
-"Conducting the secondary research enabled the interviewer to be at least somewhat informed about each interviewee's responsibilities." Twenty-eight hour-and-a-half interviews gathered quantitative commonalities and identified pain points from participants' perspectives.
-
-[Image: interview scene photograph, stock image of person in professional setting]
-
-![](/work/embracing-complexity/004.png)
-
-## 4. Data Synthesis
-"The insights gathered through the interview process were broken down into individual points and then codified into organic clusters." Data points with similar themes were grouped, with new categories created for original thoughts and recategorization when categories exceeded eight items.
-
-[Image: data clustering visualization — codified data points and thematic groupings]
+***Conducting the secondary research enabled the interviewer to be at least somewhat informed about each interviewee’s responsibilities in relation to the software they operated.** A total of 28 interviews were conducted, each lasting approximately an hour and a half. The first part of the interview was structured, featuring questions designed to gather a quantitative understanding of commonalities across all participants. These structured questions specifically targeted pain points within the ecosystem from the participant’s perspective.*
 
 ![](/work/embracing-complexity/005.jpg)
 
-## 5. Human-Technical System Diagram
-"After codifying the data, I took the initiative to synthesize it into a single cohesive document, which I titled the Human-Technical System Diagram." This comprehensive document organized stages chronologically, outlining activities, responsible divisions, and pain points. It became valuable for onboarding new team members.
+***The insights gathered through the interview process were broken down into individual points and then codified into organic clusters.** This means that data points with similar themes were grouped together. The mechanics of this clustering process were as follows: If a data point was an original thought, a new organic category was created. If a single category exceeded eight data points, deeper meaning was sought, and the data points were recategorized accordingly. This method of synthesis allowed the team to navigate through a large volume of data and begin to make sense of it.
 
-[Image: Human-Technical System Diagram — comprehensive timeline-based diagram organizing survey stages, divisions, and pain points; center focus of the case study]
+Furthermore, many of the themes that emerged had specific targets, whether related to organizational inefficiencies within NASS, software pain points, gaps in human resources in certain functions, or other areas of dissatisfaction. While these themes are qualitative in nature, once analyzed, we can apply quantitative methods to prioritize solutions. This approach helps to identify strategies that deliver the most impact for the least effort and resources—effectively achieving a "bang for the buck" solution strategy that benefits the most people.*
 
 ![](/work/embracing-complexity/006.png)
 
-## 6. Future State Planning
-"With a clear understanding of the current state, the team was now able to strategize on the future state." The proposed changes incorporated Salesforce as the selected SaaS solution, allowing side-by-side comparison of current versus future states.
-
-[Image: future state comparison diagram — side-by-side visualization integrating Salesforce into proposed changes]
+***After codifying the data, I took the initiative to synthesize it into a single cohesive document, which I titled the Human-Technical System Diagram.** The diagram was organized according to the timeline used in survey creation, broken down into individual stages. For each stage, it outlined what occurs, the divisions responsible, and the pain points experienced by those doing the work. This diagram became the highlight of the project, crafted through a collaborative process of vetting each stage with the corresponding subject matter experts. While the primary goal was to represent the current state of NASS, an emergent benefit was its ability to quickly onboard new team members—programmers, data architects, designers, and others—by offering a comprehensive view of the system.*
 
 ![](/work/embracing-complexity/007.jpg)
 
-**Outcome:** "The work shown here does not incapsulate the amount of trust building and relationship management that took place. After presenting all the work conducted steampunk was awarded a multimillion dollar contract to move forward with the proposed future state."
+***With a clear understanding of the current state, the team was now able to strategize on the future state.** Using the Human-Technical System Diagram as a template, we incorporated the proposed changes to the NASS ecosystem. Salesforce, selected by the client as their SaaS solution, was integrated into the new strategy. This approach allowed the client to easily reference the current state alongside the proposed future state, facilitating a smoother transition and clearer understanding of the changes ahead.*
 
-## 7. JIRA Story Development
-"Once the decision was made to move forward with the proposed future state, I was tasked with writing the stories for JIRA." Wrote 176 user stories detailing implementation steps, leveraging a dual role as both communicator and technical NASS expert.
-
-## 8. Incident Tracking System
-"One of the future state solutions was an Incident Tracking System, designed to allow NASS to track any incidents arising from business operations." Workflow diagrams accompanied user stories to guide developers through logic and decision trees; low-to-high fidelity prototypes were deemed unnecessary for Salesforce-based development.
-
-[Image: screenshot of implemented system — Salesforce-based development]
+### The work shown here does not incapsulate the amount of trust building and relationship management that took place. After presenting all the work conducted steampunk was awarded a multimillion dollar contract to move forward with the proposed future state.
 
 ![](/work/embracing-complexity/008.png)
-[Images: three workflow diagrams — Incident Tracking System process flows, decision trees, logic pathways]
+
+***Once the decision was made to move forward with the proposed future state, I was tasked with writing the stories for JIRA,** given my role as both the voice and in-house technical expert on NASS. In total, I wrote 176 stories, each detailing the necessary steps for the implementation of the future state.*
+
+**One of the future state solutions was an Incident Tracking System,** designed to allow NASS to track any incidents arising from business operations. In addition to providing user stories for the software development team, I included workflow diagrams to help developers understand the flow and inform them of the logic and decision trees embedded in the design. Since the system was being developed in Salesforce, highly visual low-, mid-, or high-fidelity XD prototypes were not necessary.
 
 ![](/work/embracing-complexity/009.png)
-![](/work/embracing-complexity/010.png)
+
+![](/work/embracing-complexity/010.jpg)
+
 ![](/work/embracing-complexity/011.png)
-
-## 9. Training Materials
-"Once the developers completed their work, I captured screenshots of the newly developed software and created training materials to assist with the validation process." Resources supported specification verification and user testing handoff.
-
-[Image: customer explanation diagram — system functionality / user interactions]
 
 ![](/work/embracing-complexity/012.png)
 
+***Once the developers completed their work,** I captured screenshots of the newly developed software and created training materials to assist with the validation process. These resources helped ensure that the software met the required specifications and facilitated a smoother handoff to users for testing and feedback.*
+
 ## Conclusion
-The comprehensive research, codification, diagramming, strategizing, and implementation documentation transformed NASS operations — providing "actionable insights, workflow diagrams, and training materials" while establishing a framework for future improvements.
+
+**In summary, my work with USDA NASS involved a comprehensive approach to understanding and transforming their data and survey systems.** From conducting in-depth research, codifying insights, and creating the Human-Technical System Diagram, to strategizing the future state and developing detailed user stories, I played a key role in guiding the organization through critical transitions. By providing actionable insights, workflow diagrams, and training materials, I ensured that the proposed solutions, such as the Incident Tracking System, were effectively implemented and well-understood by both developers and end users. This project not only helped NASS modernize its ecosystem but also provided a strategic framework for future improvements, setting the organization on a path toward greater efficiency and innovation.
