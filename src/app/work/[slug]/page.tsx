@@ -79,7 +79,11 @@ export default async function CaseStudyPage({
         </header>
       )}
 
-      <div className="prose-content">
+      <div
+        className={`prose-content${
+          study.imageStyle === "card" ? " images-card" : ""
+        }`}
+      >
         <ReactMarkdown
           remarkPlugins={[remarkGfm]}
           components={{

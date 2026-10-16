@@ -4,6 +4,7 @@ subtitle: "Designing a data strategy for a Fortune 500 organization"
 hasImages: true
 order: 4
 cardTitle: "Data Strategy"
+imageStyle: card
 ---
 
 # Designing a Customer data strategy

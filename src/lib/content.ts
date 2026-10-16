@@ -16,6 +16,8 @@ export interface CaseStudy {
   cardTitle: string;
   /** Cover image for the home page grid. */
   cover: string;
+  /** "card": show images as floating cards with a soft drop shadow. */
+  imageStyle?: "card";
   content: string;
 }
 
@@ -38,6 +40,7 @@ export function getCaseStudy(slug: string): CaseStudy {
     order: Number(data.order ?? Infinity),
     cardTitle: (data.cardTitle as string) ?? (data.title as string),
     cover: `/covers/${slug}.webp`,
+    imageStyle: data.imageStyle === "card" ? "card" : undefined,
     content,
   };
 }

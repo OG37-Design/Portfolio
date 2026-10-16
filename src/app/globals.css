@@ -138,6 +138,23 @@ body {
   margin: 0;
 }
 
+/*
+ * Floating-card images, after the Total Consent Design slides: rounded
+ * corners and a soft shadow weighted below (measured there at ~16% gray
+ * under the card, ~7% at the sides, ~3% above).
+ */
+.prose-content.images-card img {
+  border-radius: 14px;
+  box-shadow:
+    0 12px 40px rgba(0, 0, 0, 0.12),
+    0 2px 6px rgba(0, 0, 0, 0.04);
+  margin: 3rem 0;
+}
+
+.prose-content.images-card .image-row img {
+  margin: 0;
+}
+
 /* Vimeo/YouTube embeds carried over from Squarespace video blocks. */
 .prose-content .video-embed {
   position: relative;
