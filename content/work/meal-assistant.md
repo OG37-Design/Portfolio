@@ -1,7 +1,7 @@
 ---
 title: "Meal Assistant"
 subtitle: "Two studies, one adoption story — Kroger / Cooklist"
-hasImages: true
+hasImages: false
 order: 2
 cardTitle: "Proof of Concept in collaboration with Cooklist, Inc."
 ---
@@ -9,8 +9,6 @@ cardTitle: "Proof of Concept in collaboration with Cooklist, Inc."
 # Kroger/Cooklist Meal Assistant — Two studies, one adoption story
 
 ## How trust, realism, and plan-to-cart reliability shape weekly meal planning behaviors.
-
-![](/work/meal-assistant/001.png)
 
 ## Why two studies
 
@@ -24,8 +22,6 @@ Wizard-of-Oz is a prototyping method where users interact with a ‘live’ assi
 
 1. **Sample: N=5**
 2. **Goal:** compare baseline vs AI-assisted flow for speed, confidence, and trust
-
-![](/work/meal-assistant/002.png) ![](/work/meal-assistant/003.png) ![](/work/meal-assistant/004.png) ![](/work/meal-assistant/005.png) ![](/work/meal-assistant/006.png)
 
 **Moderated Wizard-of-Oz interviews (60 min, Zoom).** I ran 1:1 sessions using a structured discussion guide to keep each interview consistent while still leaving room for open-ended probing. Participants worked through a realistic weekly-meal-planning scenario, first describing how they’d normally decide what to cook, then interacting with a “live” Meal Assistant. Behind the scenes, I simulated assistant behavior in real time (Wizard-of-Oz) using prepared response patterns to test the experience before full automation. This approach let us evaluate trust, clarity, and perceived effort—especially what people needed to feel confident the plan would work for their household.
 
@@ -149,8 +145,6 @@ The research naturally led to the articulation of the **Core Jobs-to-Be-Done** b
   - Personalization without feeling surveilled; transparency in reasoning.
 
 These jobs emerged as the foundation for design principles and future experiments because they represent what users are truly “hiring” the assistant to accomplish not just what the technology can do, but what makes it worth adopting in their real-world context.
-
-![](/work/meal-assistant/007.jpg)
 
 # Un-Moderated Study
 
